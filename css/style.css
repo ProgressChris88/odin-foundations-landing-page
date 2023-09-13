@@ -1,0 +1,33 @@
+li {
+  list-style: none;
+}
+
+.header {
+  background-color: black;
+  padding: 32px;
+}
+
+.header ul {
+  color: white;
+  display: flex;
+  flex: 1;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#header_logo {
+  color: white;
+}
+
+.header_links {
+  display: flex;
+  flex: 1;
+  gap: 12px;
+  padding-right: 32px;
+  justify-content: flex-end;
+}
+
+.header_links a {
+  text-decoration: none;
+  color: white;
+}

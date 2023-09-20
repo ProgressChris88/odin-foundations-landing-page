@@ -31,3 +31,36 @@ li {
   text-decoration: none;
   color: white;
 }
+
+#attract-picture {
+  width: 100%;
+  height: 322px;
+}
+.attract {
+  background-color: cadetblue;
+  display: flex;
+  padding: 79px;
+  justify-content: center;
+}
+
+.description {
+  margin-right: 74px;
+  margin-left: 74px;
+}
+
+.attract h2 {
+  font-size: 48px;
+  font-weight: extra-bold;
+  color: #f9faf8;
+}
+
+.attract p {
+  font-size: 32px;
+  color: #e5e7eb;
+}
+
+.footer {
+  display: flex;
+  background-color: #504f4d;
+  font: white;
+}

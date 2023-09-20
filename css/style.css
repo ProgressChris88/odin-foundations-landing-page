@@ -62,5 +62,6 @@ li {
 .footer {
   display: flex;
   background-color: #504f4d;
-  font: white;
+  color: white;
+  justify-content: center;
 }
